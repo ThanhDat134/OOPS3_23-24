@@ -18,6 +18,8 @@ public class Lab1 {
         //System.out.println(q2.MinThreeOfNumber());
         //Question3 q3 = new Question3(15);
         //System.out.println(q3.HailstoneSequence());
+        //Question4 q4 = new Question4();
+        //System.out.println(q4.SumAllEvenNumber());
 //        ArrayList<Integer> arr = new ArrayList<>();
 //        arr.add(3);
 //        arr.add(4);
